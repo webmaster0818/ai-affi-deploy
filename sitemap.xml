@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://movi-ai.com/</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://movi-ai.com/about/</loc><lastmod>2026-06-28</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://movi-ai.com/compare/avatar-ai-tools/</loc><lastmod>2026-11-24</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://movi-ai.com/compare/avatar-ai-tools/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://movi-ai.com/compare/best-ai-video-tools/</loc><lastmod>2026-06-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://movi-ai.com/compare/fliki-vs-pictory/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://movi-ai.com/compare/subtitle-ai-tools/</loc><lastmod>2026-06-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -51,7 +51,7 @@
   <url><loc>https://movi-ai.com/guide/ai-live-action/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/kling-ai-pricing/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/animatediff/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://movi-ai.com/guide/luma-ray3/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://movi-ai.com/guide/luma-ray3/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/vrew-how-to/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/magicanimate/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/lip-sync-ai/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -67,9 +67,13 @@
   <url><loc>https://movi-ai.com/guide/premiere-generative-ai/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/seedance-prompt/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/ai-video-pc-specs/</loc><lastmod>2026-11-21</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://movi-ai.com/guide/wan-3/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://movi-ai.com/guide/wan-3/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/vrew-safety/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/powerdirector-ai/</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://movi-ai.com/guide/happyhorse/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://movi-ai.com/guide/luma-agents/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://movi-ai.com/guide/gemini-live-avatar/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://movi-ai.com/guide/runway-cancel/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/gemini-omni-flash/</loc><lastmod>2026-11-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/pika-h3-flex/</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/synthid-detector/</loc><lastmod>2026-11-08</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
@@ -81,7 +85,7 @@
   <url><loc>https://movi-ai.com/guide/pictory-alternatives/</loc><lastmod>2026-10-17</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/pictory-how-to/</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/product-demo-ai-video/</loc><lastmod>2026-10-19</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://movi-ai.com/guide/runway-how-to/</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://movi-ai.com/guide/runway-how-to/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/saiyo-video/</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/shorts-subtitles-ai/</loc><lastmod>2026-10-15</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
   <url><loc>https://movi-ai.com/guide/sns-kokoku-video/</loc><lastmod>2026-10-18</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
